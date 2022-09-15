@@ -1,0 +1,88 @@
+FF9867 - play
+FFA857 - +
+FF18E7 - -
+FF6897 - rigth
+FFB04F - left
+____________________________________________
+
+play:
+08:11:27.365 -> E619FF00
+08:11:27.365 -> Protocol=PulseDistance Raw-Data=0xE619FF00 32 bits LSB first
+08:11:27.410 -> 0
+08:11:27.410 -> Protocol=PulseDistance Repeat gap=38850us
+
+08:21:46.015 -> E619FF00
+08:21:46.015 -> Protocol=NEC Address=0x0 Command=0x19 Raw-Data=0xE619FF00 32 bits LSB first
+08:21:46.106 -> 0
+08:21:46.106 -> Protocol=NEC Address=0x0 Command=0x19 Repeat gap=38900us
+
+08:45:51.006 -> Protocol=NEC Address=0x0 Command=0x19 Raw-Data=0xE619FF00 32 bits LSB first
+08:45:51.098 -> 0
+08:45:51.098 -> Protocol=NEC Address=0x0 Command=0x19 Repeat gap=38950us
+08:46:21.897 -> E619FF00
+
+08:46:21.897 -> Protocol=NEC Address=0x0 Command=0x19 Raw-Data=0xE619FF00 32 bits LSB first
+08:46:21.942 -> 0
+08:46:21.942 -> Protocol=NEC Address=0x0 Command=0x19 Repeat gap=38900us
+08:46:38.101 -> E619FF00
+
+08:46:38.101 -> Protocol=NEC Address=0x0 Command=0x19 Raw-Data=0xE619FF00 32 bits LSB first
+08:46:38.192 -> 0
+08:46:38.192 -> Protocol=NEC Address=0x0 Command=0x19 Repeat gap=38950us
+08:47:00.839 -> E619FF00
+
+08:47:00.885 -> Protocol=NEC Address=0x0 Command=0x19 Raw-Data=0xE619FF00 32 bits LSB first
+08:47:00.978 -> 0
+08:47:00.978 -> Protocol=NEC Address=0x0 Command=0x19 Repeat gap=38900us
+
+
+
+
+
++:
+08:12:50.816 -> EA15FF00
+08:12:50.816 -> Protocol=NEC Address=0x0 Command=0x15 Raw-Data=0xEA15FF00 32 bits LSB first
+08:12:50.906 -> 0
+08:12:50.906 -> Protocol=NEC Address=0x0 Command=0x15 Repeat gap=38900us
+
+08:22:31.314 -> EA15FF00
+08:22:31.314 -> Protocol=NEC Address=0x0 Command=0x15 Raw-Data=0xEA15FF00 32 bits LSB first
+08:22:31.360 -> 0
+08:22:31.360 -> Protocol=NEC Address=0x0 Command=0x15 Repeat gap=38850us
+
+
+
+-:
+08:13:15.417 -> E718FF00
+08:13:15.417 -> Protocol=PulseDistance Raw-Data=0xE718FF00 32 bits LSB first
+08:13:15.508 -> 0
+08:13:15.508 -> Protocol=PulseDistance Repeat gap=38850us
+
+08:23:06.113 -> E718FF00
+08:23:06.113 -> Protocol=NEC Address=0x0 Command=0x18 Raw-Data=0xE718FF00 32 bits LSB first
+08:23:06.159 -> 0
+08:23:06.159 -> Protocol=NEC Address=0x0 Command=0x18 Repeat gap=38900us
+
+
+
+
+rigth:
+08:13:44.183 -> E916FF00
+08:13:44.228 -> Protocol=NEC Address=0x0 Command=0x16 Raw-Data=0xE916FF00 32 bits LSB first
+08:13:44.319 -> 0
+08:13:44.319 -> Protocol=NEC Address=0x0 Command=0x16 Repeat gap=38850us
+
+
+
+
+left:
+08:14:06.581 -> F20DFF00
+08:14:06.627 -> Protocol=PulseDistance Raw-Data=0xF20DFF00 32 bits LSB first
+08:14:06.672 -> 0
+08:14:06.672 -> Protocol=PulseDistance Repeat gap=38900us
+
+
+08:23:28.342 -> E718FF00
+08:23:28.342 -> Protocol=NEC Address=0x0 Command=0x18 Raw-Data=0xE718FF00 32 bits LSB first
+08:23:28.433 -> 0
+08:23:28.433 -> Protocol=NEC Address=0x0 Command=0x18 Repeat gap=38850us
